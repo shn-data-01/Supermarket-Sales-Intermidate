@@ -1,0 +1,11 @@
+,customer_type,product_category,avg_unit_price,total_quantity,total_revenue,total_points
+1,Member,Personal Care,11.91357798,1191,15370.6,1483
+2,Member,Fruits,10.80351852,1223,14045.72,1352
+3,Member,Beverages,11.356875,990,11807,1128
+4,Member,Household,10.89915888,1027,11613.86,1106
+5,Member,Stationery,9.685520833,966,10376.45,988
+6,Normal,Fruits,10.88990099,1063,12151.73,0
+7,Normal,Personal Care,10.51292929,1087,11679.58,0
+8,Normal,Beverages,10.85604396,962,11176.32,0
+9,Normal,Stationery,10.37098039,947,10360.66,0
+10,Normal,Household,10.9678022,881,10001.98,0
